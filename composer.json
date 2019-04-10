@@ -1,0 +1,15 @@
+{
+    "name": "matias/colas",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Matias",
+            "email": "matias.pagano07@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "require-dev": {
+    }
+}

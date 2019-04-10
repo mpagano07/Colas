@@ -1,5 +1,5 @@
 <?php
-require 'Pila.php';
+require 'Pila2.php';
 
 
 class ColaPila
@@ -9,8 +9,8 @@ class ColaPila
 
     public function __construct()
     {
-        $this->pila1 = new Pila();
-        $this->pila2 = new Pila();
+        $this->pila1 = new Pila2();
+        $this->pila2 = new Pila2();
     
     }
     public function desencolar()
